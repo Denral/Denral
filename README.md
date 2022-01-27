@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Denral, 25 years old, graduate in Finance and Accounting.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning HTML, CSS, JS, Node, and More!
+- 💞️ I’m looking to collaborate with all of you.
+- 📫 How to reach me - Discord @Denral#9212.
